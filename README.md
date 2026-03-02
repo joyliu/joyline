@@ -68,26 +68,6 @@ Each entry follows this structure:
 
 ---
 
-## Example Entry
-
-**Q: Should I specialize or stay generalist?**
-
-**Reframe:** The real question isn't "specialist or generalist?" — it's "How do I stay resilient in a shifting market?"
-
-**Answer:** Right now, with tighter budgets and smaller teams, the most resilient designers are **generalists with spikes**: broad enough to handle end-to-end work, but deep enough to be recognized for specific strengths.
-
-Here's the approach:
-- **Be great at a few skills** — your superpowers
-- **Be good at most core skills** — work efficiently across the design process
-- **Be proficient in niche skills** — speak the language with engineers, PMs, researchers
-
-The riskiest place to be? A specialist who needs constant coverage in other areas. If your manager has to pull extra people just to make you effective, your role becomes harder to justify.
-
-**Lesson:** Don't choose between specialist and generalist. Build breadth so you can contribute across the spectrum, then go deep in a couple of areas so you stand out.
-
-
----
-
 ## Who This Is For
 
 - **Junior designers** navigating their first few years
