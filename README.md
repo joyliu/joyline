@@ -126,15 +126,6 @@ If you need deeper 1:1 support, consider:
 
 ---
 
-## Contributing
-
-Found a question that should be added? Spotted an issue?
-
-- **Submit questions:** [Share via this form](https://joyliujoyliu.notion.site/308a1b409bd0819fb559d0a0229e9f93)
-- **Report issues:** Open a GitHub issue
-
----
-
 ## License & Attribution
 
 This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
