@@ -19,7 +19,7 @@ Pick the mode that works for you:
 
 Perfect for: Skimming topics, searching specific questions, understanding the structure
 
-→ [View Knowledge Base](knowledgebase.md)
+→ [View Knowledge Base](https://joyliujoyliu.notion.site/308a1b409bd081ffbfbad2d32a825118?v=308a1b409bd0811da4d1000cc12c94e5)
 
 ---
 
@@ -44,8 +44,6 @@ Perfect for: Ongoing conversations, personal context, multiturn coaching
 - Setup time: ~5 minutes
 - Uses: Claude Sonnet/Opus (better quality, unlimited messages)
 - Good for: Career transitions, stakeholder challenges, ongoing growth
-
-**→ [Setup Guide](docs/setup-guide.md)**
 
 ---
 
@@ -87,7 +85,6 @@ The riskiest place to be? A specialist who needs constant coverage in other area
 
 **Lesson:** Don't choose between specialist and generalist. Build breadth so you can contribute across the spectrum, then go deep in a couple of areas so you stand out.
 
-→ [See full entry](knowledgebase.md#should-i-specialize-or-stay-generalist)
 
 ---
 
@@ -126,7 +123,6 @@ If you need deeper 1:1 support, consider:
 4. Upload [knowledgebase.md](knowledgebase.md) as Project knowledge
 5. Start asking questions!
 
-**→ [Detailed setup guide with screenshots](docs/setup-guide.md)**
 
 ---
 
