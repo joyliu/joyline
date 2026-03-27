@@ -10,7 +10,7 @@ No gatekeeping. No $200 coffee chats. Just frameworks, honest advice, and practi
 
 ---
 
-## Three Ways to Use This
+## Four Ways to Use This
 
 Pick the mode that works for you:
 
