@@ -133,7 +133,7 @@ If this helped you land an interview, feel confident in a tough conversation, or
 
 ## Changelog
 
-### v1.0.0 (2026/03/01)
+### v1.0.0 (2026/03/27)
 - Initial release with 100 knowledge base entries
 - Launched AskJoyline on Poe (Easy Mode)
 - Published Claude Skill setup (Pro Mode)
