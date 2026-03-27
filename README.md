@@ -28,7 +28,7 @@ Perfect for: Skimming topics, searching specific questions, understanding the st
 
 Perfect for: Quick questions, tactical advice, getting unstuck fast
 
-- One-click access: **[poe.com/AskJoyline](https://poe.com/AskJoyline)**
+- One-click access: [poe.com/AskJoyline](https://poe.com/AskJoyline)
 - Free tier: ~28 messages/day
 - Powered by Claude Haiku 4.5
 - Good for: "How do I write a handoff doc?", "Should I specialize?", "Portfolio tips?"
@@ -44,6 +44,17 @@ Perfect for: Ongoing conversations, personal context, multiturn coaching
 - Setup time: ~5 minutes
 - Uses: Claude Sonnet/Opus (better quality, unlimited messages)
 - Good for: Career transitions, stakeholder challenges, ongoing growth
+
+---
+
+### 💁🏻‍♀️ Human Mode (Joy)
+**The real thing**
+
+Perfect for: Bringing your own reflection and context into a real conversation
+
+- Requires: [Signing up for coffee chat](https://www.joy-liu.com/coffee-chat)
+- Availability: 30 minutes once a week (strictest usage limit)
+- Good for: Situations where you've already done the thinking and need a real conversation to go deeper. Bonus points if you've already used Joyline to think it through — that's what makes the 30 minutes count.
 
 ---
 
@@ -82,14 +93,10 @@ Each entry follows this structure:
 
 This is mentorship guidance, not:
 - Therapy or medical advice
-- Personal coaching for specific workplace situations
+- Professional career coaching for specific workplace situations
 - Resume writing or portfolio reviews
 - Promises of job outcomes
-
-If you need deeper 1:1 support, consider:
-- [Joy's coffee chats](https://www.joy-liu.com/coffee-chat)
-- Building your own Claude coaching project
-- Professional career coaching
+- Job referrals
 
 ---
 
@@ -133,11 +140,9 @@ If this helped you land an interview, feel confident in a tough conversation, or
 
 ## Changelog
 
-### v1.0.0 (2026/03/27)
-- Initial release with 100 knowledge base entries
-- Launched AskJoyline on Poe (Easy Mode)
-- Published Claude Skill setup (Pro Mode)
+### v1.0 (2026/03/27)
 - Open-sourced full knowledge base
+- Published Claude Skill setup (Pro Mode)
 
 ---
 
